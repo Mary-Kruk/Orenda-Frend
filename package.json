@@ -2,9 +2,9 @@
   "name": "orenda",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
-    "start": "node index.js", 
+    "start": "node app.js", 
     "build": "echo 'No build step for this project'" 
   },
   "keywords": [],
